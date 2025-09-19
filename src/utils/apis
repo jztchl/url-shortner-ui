@@ -1,7 +1,6 @@
+
 import axios from "axios";
-
-const API = process.env.BACKEND_URL ;
-
+const API = import.meta.env.VITE_BACKEND_URL;
 
 export const shortenUrl = async (original_url) => {
    
