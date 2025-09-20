@@ -96,8 +96,3 @@ frontend/
 ## 📜 License
 
 This project is **MIT Licensed**.
-
-
-
-Do you want me to do that?
-
