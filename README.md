@@ -1,7 +1,8 @@
 <p align="center">
   <img src="logo.webp" alt="app  Logo" width="200" >
 </p>
-# URL Shortener (Frontend)
+
+## URL Shortener (Frontend)
 
 A modern **React frontend** for a URL shortening app.
 This project demonstrates a sleek UI for shortening URLs, live preview, and copy-to-clipboard functionality.
@@ -99,3 +100,4 @@ This project is **MIT Licensed**.
 
 
 Do you want me to do that?
+
