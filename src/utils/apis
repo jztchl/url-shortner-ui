@@ -3,7 +3,7 @@ import axios from "axios";
 const API = import.meta.env.VITE_BACKEND_URL;
 
 export const shortenUrl = async (original_url) => {
-   
-  const res = await axios.post(`https://${API}/shorten`, { original_url });
+
+  const res = await axios.post(`https://${API}/shorten/`, { original_url }, { withCredentials: true });
   return res.data;
 };
